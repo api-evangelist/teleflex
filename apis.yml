@@ -17,7 +17,7 @@ image: https://kinlane-images.s3.amazonaws.com/shared/apis-json/icons/teleflex.p
 description: 'Fortune 1000 company Teleflex. Public API documentation has not yet been catalogued in the API Evangelist network.'
 created: '2026-05-05'
 modified: '2026-05-05'
-specificationVersion: '0.19'
+specificationVersion: '0.23'
 common:
   - type: LinkedIn
     url: https://www.linkedin.com/company/teleflex
